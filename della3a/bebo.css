@@ -1,0 +1,19 @@
+body {
+    color: aqua;
+    background-image: url(3background.png);
+}
+h1{
+    color: rgb(243, 111, 3);
+    text-align: center;
+    font-size: 2cm;
+    text-shadow: 3px 1.5px 17px ;
+}
+h2{ 
+    background-color: darkslategray;
+}
+html{ 
+    font-family: cursive;
+}
+section{
+    background-color: darkslategray;
+}
